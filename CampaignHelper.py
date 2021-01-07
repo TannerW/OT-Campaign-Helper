@@ -15,7 +15,7 @@ async def on_ready():
 @client.event
 async def on_message(message):
     id = client.get_guild(ID)
-    channels = ["commands"]
+    channels = ["general"]
     valid_users = ["Tanner#1753"]
 
     if str(message.channel) in channels and str(message.author) in valid_users:
