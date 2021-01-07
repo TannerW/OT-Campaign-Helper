@@ -1,1 +1,1 @@
-# OT-Campaign-Helper
+# Campaign-Helper-Discord-Bot
